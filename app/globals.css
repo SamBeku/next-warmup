@@ -47,3 +47,11 @@ a {
     color-scheme: dark;
   }
 }
+
+nav, main {
+  padding: 20px;
+}
+
+nav a {
+  margin-right: 15px;
+}
